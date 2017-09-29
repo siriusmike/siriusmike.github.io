@@ -40,6 +40,6 @@
  [5](http://study.up-skills.ru/teach/control/lesson/view/id/8092098"5")
 )
 
-[Урок 12](https://siriusmike.github.io/github/lesson_12/ "Моя домашка") - Работа с репозиторием на GitHub.
+[Урок 12](https://siriusmike.github.io/ "Моя домашка") - Работа с репозиторием на GitHub.
 
 
