@@ -33,10 +33,10 @@
 
 Урок 11 - Сниппеты.
 (
- [1](http://fs.getcourse.ru/fileservice/file/download/a/12250/sc/475/h/a48e1456afb6b6be23fd16e7bfaf1baf.png"1")
- [2](http://fs.getcourse.ru/fileservice/file/download/a/12250/sc/128/h/f3fb28f6128f4937bb7d22f9598c4837.png"2")
- [3](http://fs.getcourse.ru/fileservice/file/download/a/12250/sc/247/h/8b4ccb36ecc51267881fe0e91d05c6f5.png"3")
- [4](http://fs.getcourse.ru/fileservice/file/download/a/12250/sc/16/h/84833e47719652b5530febe80cd85560.png"4")
+ [1](http://fs.getcourse.ru/fileservice/file/download/a/12250/sc/475/h/a48e1456afb6b6be23fd16e7bfaf1baf.png"1"),
+ [2](http://fs.getcourse.ru/fileservice/file/download/a/12250/sc/128/h/f3fb28f6128f4937bb7d22f9598c4837.png"2"),
+ [3](http://fs.getcourse.ru/fileservice/file/download/a/12250/sc/247/h/8b4ccb36ecc51267881fe0e91d05c6f5.png"3"),
+ [4](http://fs.getcourse.ru/fileservice/file/download/a/12250/sc/16/h/84833e47719652b5530febe80cd85560.png"4"),
  [5](http://study.up-skills.ru/teach/control/lesson/view/id/8092098"5")
 )
 
