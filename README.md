@@ -25,7 +25,7 @@
 
 [Урок 7](https://siriusmike.github.io/src/ "Моя домашка") - Верстка первого макета.
 
-[Урок 8](siriusmike.github.io/project/src/ "Моя домашка") - Ускорение верстки в разы.
+[Урок 8](https://siriusmike.github.io/project/src/ "Моя домашка") - Ускорение верстки в разы.
 
 [Урок 9](https://siriusmike.github.io/lesson_9/src/ "Моя домашка") - Верстка при помощи bootstrap.
 
