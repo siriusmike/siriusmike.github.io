@@ -1,0 +1,90 @@
+body {
+	background-color: #e4f0f0;
+	text-align: center;
+	margin-top: 100px;
+}
+
+.main {
+	display: inline-block;
+	border: 1px solid gray;
+	background-color: #fff;
+}
+
+.first {
+	background-color: #fff;
+}
+
+.second {
+	width: 320px;
+	height: 317px;
+	padding-left:  29px;
+	z-index: 0;
+}
+
+
+.form-group {
+	text-align-last: left;
+}
+
+.odin {
+	margin-top: 52px;
+}
+
+.odin_ {
+	margin-top: -7px;
+	width: 262px
+}
+
+.dva {
+	margin-top: 8px;
+
+}
+
+.dva_ {
+	margin-top: -5px;
+	width: 262px;
+}
+
+.tri {
+	margin-top: -1px;
+}
+
+.tri_ {
+	margin-top: -6px;
+	width: 262px
+}
+
+.button-color {
+	margin: 18px auto;
+	margin-left: -28px;
+	background-color: #01c0c0;
+	font-size: 16px;
+	height: 45px;
+	width: 260px;
+	font-weight: 700;
+}
+
+p {
+	margin: 15px auto;
+	font-size: 12px;
+	font-weight: bold	
+}
+
+.box {
+	position: absolute;
+	z-index: 1;
+	background-color: #01c0c0;
+	width: 150px;
+	height: 25px;
+	margin-left: 31px;
+	top: 97px;
+	color: #fff;
+}
+
+.text_1 {
+	font-size: 12px;
+ 	margin: 6px auto;
+ 	color: #fff;
+}
+
+.placeholder {}
