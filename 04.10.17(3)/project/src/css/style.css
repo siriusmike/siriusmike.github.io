@@ -187,4 +187,7 @@ section {
   .wrap-block {
     text-align: center;
   }
+  .main-content h1 {
+    font-size: 3rem;
+  }
 }
