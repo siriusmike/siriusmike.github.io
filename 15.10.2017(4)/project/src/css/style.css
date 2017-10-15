@@ -1,0 +1,42 @@
+.red-block {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-left: 26%;
+  display: inline-block;
+  background-color: #c60b0b;
+  height: 400px;
+  width: 400px;
+  text-align: center;
+  color: white;
+  z-index: 99;
+}
+.red-block h1 {
+  margin-top: 50px;
+}
+.red-block p {
+  margin-top: 30px;
+}
+.red-block ins {
+  display: inline-block;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.map {
+  z-index: 0;
+}
+.content {
+  margin-top: 30px;
+  text-align: center;
+}
+.content .grey {
+  color: #666666;
+}
+.content-right {
+  margin-top: -3rem;
+  text-align: right;
+}
+.content-right h1 {
+  font-size: 22px;
+  font-weight: 300;
+}
