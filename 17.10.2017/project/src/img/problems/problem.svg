@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="18px" height="18px" viewBox="0 0 18 18">
+<filter filterUnits="objectBoundingBox" x="0.00" y="0.00" width="100.00" height="100.00" id="filter0">
+<feFlood flood-color="rgb(255,0,0)" result="coFloodOut1"/>
+<feComposite in="coFloodOut1" in2="SourceAlpha" operator="in" result="coOverlay1"/>
+<feBlend in="coOverlay1" in2="SourceGraphic" mode="normal" result="colorOverlay1"/>
+</filter>
+<g transform="matrix(0.03 0.00 0.00 0.03 0.00 0.00)" filter="url(#filter0)"><path fillRule="evenodd" d="M 378.73 306C 378.73 306 596.92 87.82 596.92 87.82 617 67.73 617 35.17 596.92 15.09 576.83-5 544.27-5 524.19 15.09 524.19 15.09 306 233.28 306 233.28 306 233.28 87.81 15.08 87.81 15.08 67.73-5 35.17-5 15.08 15.08-5 35.17-5 67.73 15.08 87.81 15.08 87.81 233.27 306 233.27 306 233.27 306 15.08 524.19 15.08 524.19-5 544.27-5 576.83 15.08 596.92 35.17 617 67.73 617 87.81 596.92 87.81 596.92 306 378.73 306 378.73 306 378.73 524.19 596.92 524.19 596.92 544.27 617 576.83 617 596.92 596.92 617 576.83 617 544.27 596.92 524.19 596.92 524.19 378.73 306 378.73 306Z" fill="rgb(0,0,0)"/></g></svg>
